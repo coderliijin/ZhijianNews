@@ -112,6 +112,7 @@ public class NewsCenterPager extends BasePager {
 
     }
 
+    //
     //解析json数据
     private NewsCenterPagerBean parsedJson(String json) {
         return new Gson().fromJson(json, NewsCenterPagerBean.class);
