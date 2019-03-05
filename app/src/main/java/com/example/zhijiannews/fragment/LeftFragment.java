@@ -54,6 +54,20 @@ public class LeftFragment extends BaseFragment {
         });
         return listView;
     }
+    /*
+        左侧菜单接收新闻中心发过来的数据
+         */
+    public void setdata(List<NewsCenterPagerBean.DataBean> data) {
+        this.data = data;
+        for (int i = 0; i < data.size(); i++) {
+            LogUtil.e("title==" + data.get(i).getTitle());
+        }
+        //设置适配器
+        adapter = new LeftmenuFragmentAdapter();
+        listView.setAdapter(adapter);
+        //默认跳转到新闻详情页面
+        swichPager(prePosition);
+    }
 
     private void swichPager(int position) {
         MainActivity mainActivity = (MainActivity) context;
@@ -67,20 +81,7 @@ public class LeftFragment extends BaseFragment {
         super.initData();
     }
 
-    /*
-    传递数据给左侧菜单
-     */
-    public void setdata(List<NewsCenterPagerBean.DataBean> data) {
-        this.data = data;
-        for (int i = 0; i < data.size(); i++) {
-            LogUtil.e("title==" + data.get(i).getTitle());
-        }
-        //设置适配器
-        adapter = new LeftmenuFragmentAdapter();
-        listView.setAdapter(adapter);
-        //默认跳转到新闻详情页面
-        swichPager(prePosition);
-    }
+    
 
     private class LeftmenuFragmentAdapter extends BaseAdapter {
         @Override
@@ -103,7 +104,6 @@ public class LeftFragment extends BaseFragment {
 
             TextView textView = (TextView) View.inflate(context, R.layout.item_leftmenu, null);
             textView.setText(data.get(position).getTitle());
-
             textView.setEnabled(position == prePosition);
             return textView;
         }
