@@ -1,0 +1,353 @@
+-- Merging decision tree log ---
+manifest
+ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:2:1-294:12
+INJECTED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:2:1-294:12
+INJECTED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:2:1-294:12
+INJECTED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:2:1-294:12
+MERGED from [:ViewPagerIndicator_library] H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicator_library\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\e009d483624e6dcc10426b09d32dc6fc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\35ca24488f151ffd1d755b30ba8e8531\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\af0af53a990a189e8fa0efda00ad0b94\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\333236e62320ebfe1a47c27f7ea10668\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\af267683fc0ba1e1a13b2657f10de1f5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\d76ca2a47fac39a08dbd0a425da5b52e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\8b823809382d9401bd8e42cbc703cac4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\dfb3ae1ccf14ea6afcde80028ff3d3d6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\634346b059fae288c3d3850a5164badc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\b338c94fe78ebb92f003c286fe545526\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\3cb75a24b7eda3fc811bc527ae4979c0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\4f0b7747a7bb3b72ff79bfcdfb8da736\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\c20243fe6a09a3654fb7eca98d4ca72b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\9b35f747a13441a4a82f9f7792795e3f\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\5280fa656e18051fe738e61bf1c6e7a8\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\60749f5295e7bacaaf63fca0418b5593\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\0bc4a5ca0915826e8fdcb832aec32dbb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\d4b5a30d93e6d4fe8f341ef4102e9911\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\5037a2ab08689c02380effba2588fb13\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\db09267961f884df73abf97952d94fcb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\ab4da938809d3afb74b6a14f2b82c7de\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\7d19cb470745f04e8fc93edb640cff39\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\f57f4cf11d5647e760ce94a2f79c367c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\a512bfbb0881cafed078bb34f488334f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\3141eb7a18ebedd4196deac65d326e1f\AndroidManifest.xml:17:1-22:12
+INJECTED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:2:1-294:12
+INJECTED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:2:1-294:12
+INJECTED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:2:1-294:12
+	package
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml
+		INJECTED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:5:5-32
+		INJECTED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml
+		INJECTED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:4:5-29
+		INJECTED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml
+		INJECTED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml
+application
+ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:7:5-293:19
+MERGED from [androidx.core:core:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\9b35f747a13441a4a82f9f7792795e3f\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\9b35f747a13441a4a82f9f7792795e3f\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\5280fa656e18051fe738e61bf1c6e7a8\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\5280fa656e18051fe738e61bf1c6e7a8\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\9b35f747a13441a4a82f9f7792795e3f\AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:8:9-50
+	android:icon
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:9:9-38
+activity#com.viewpagerindicator.sample.ListSamples
+ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:11:9-19:20
+	android:label
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:13:13-48
+	android:name
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:12:13-40
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:15:13-18:29
+action#android.intent.action.MAIN
+ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:17:27-74
+activity#com.viewpagerindicator.sample.SampleCirclesDefault
+ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:24:9-31:20
+	android:label
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:26:13-44
+	android:name
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:25:13-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:com.jakewharton.android.viewpagerindicator.sample.SAMPLE
+ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:27:13-30:29
+category#com.jakewharton.android.viewpagerindicator.sample.SAMPLE
+ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:29:17-101
+	android:name
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:29:27-98
+activity#com.viewpagerindicator.sample.SampleCirclesInitialPage
+ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:32:9-39:20
+	android:label
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:34:13-49
+	android:name
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:33:13-53
+activity#com.viewpagerindicator.sample.SampleCirclesSnap
+ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:40:9-47:20
+	android:label
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:42:13-41
+	android:name
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:41:13-46
+activity#com.viewpagerindicator.sample.SampleCirclesStyledLayout
+ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:48:9-56:20
+	android:label
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:50:13-56
+	android:theme
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:51:13-55
+	android:name
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:49:13-54
+activity#com.viewpagerindicator.sample.SampleCirclesStyledMethods
+ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:57:9-65:20
+	android:label
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:59:13-57
+	android:theme
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:60:13-55
+	android:name
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:58:13-55
+activity#com.viewpagerindicator.sample.SampleCirclesStyledTheme
+ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:66:9-74:20
+	android:label
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:68:13-55
+	android:theme
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:69:13-52
+	android:name
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:67:13-53
+activity#com.viewpagerindicator.sample.SampleCirclesWithListener
+ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:75:9-82:20
+	android:label
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:77:13-50
+	android:name
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:76:13-54
+activity#com.viewpagerindicator.sample.SampleIconsDefault
+ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:87:9-94:20
+	android:label
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:89:13-42
+	android:name
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:88:13-47
+activity#com.viewpagerindicator.sample.SampleLinesDefault
+ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:100:9-107:20
+	android:label
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:102:17-46
+	android:name
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:101:17-51
+activity#com.viewpagerindicator.sample.SampleLinesStyledLayout
+ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:108:9-116:20
+	android:label
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:110:17-58
+	android:theme
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:111:17-59
+	android:name
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:109:17-56
+activity#com.viewpagerindicator.sample.SampleLinesStyledMethods
+ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:117:9-125:20
+	android:label
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:119:17-59
+	android:theme
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:120:17-59
+	android:name
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:118:17-57
+activity#com.viewpagerindicator.sample.SampleLinesStyledTheme
+ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:126:9-134:20
+	android:label
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:128:17-57
+	android:theme
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:129:17-56
+	android:name
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:127:17-55
+activity#com.viewpagerindicator.sample.SampleTitlesBottom
+ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:139:9-146:20
+	android:label
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:141:13-52
+	android:name
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:140:13-47
+activity#com.viewpagerindicator.sample.SampleTitlesCenterClickListener
+ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:147:9-154:20
+	android:label
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:149:13-57
+	android:name
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:148:13-60
+activity#com.viewpagerindicator.sample.SampleTitlesDefault
+ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:155:9-162:20
+	android:label
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:157:13-43
+	android:name
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:156:13-48
+activity#com.viewpagerindicator.sample.SampleTitlesInitialPage
+ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:163:9-170:20
+	android:label
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:165:13-48
+	android:name
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:164:13-52
+activity#com.viewpagerindicator.sample.SampleTitlesStyledLayout
+ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:171:9-179:20
+	android:label
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:173:13-55
+	android:theme
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:174:13-55
+	android:name
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:172:13-53
+activity#com.viewpagerindicator.sample.SampleTitlesStyledMethods
+ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:180:9-188:20
+	android:label
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:182:13-56
+	android:theme
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:183:13-55
+	android:name
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:181:13-54
+activity#com.viewpagerindicator.sample.SampleTitlesStyledTheme
+ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:189:9-197:20
+	android:label
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:191:13-54
+	android:theme
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:192:13-52
+	android:name
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:190:13-52
+activity#com.viewpagerindicator.sample.SampleTitlesTriangle
+ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:198:9-205:20
+	android:label
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:200:13-50
+	android:name
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:199:13-49
+activity#com.viewpagerindicator.sample.SampleTitlesWithListener
+ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:206:9-213:20
+	android:label
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:208:13-49
+	android:name
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:207:13-53
+activity#com.viewpagerindicator.sample.SampleTabsDefault
+ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:218:9-226:20
+	android:label
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:220:13-41
+	android:theme
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:221:13-63
+	android:name
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:219:13-46
+activity#com.viewpagerindicator.sample.SampleTabsStyled
+ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:227:9-235:20
+	android:label
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:229:13-40
+	android:theme
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:230:13-52
+	android:name
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:228:13-45
+activity#com.viewpagerindicator.sample.SampleTabsWithIcons
+ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:236:7-244:18
+	android:label
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:238:11-42
+	android:theme
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:239:11-50
+	android:name
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:237:11-46
+activity#com.viewpagerindicator.sample.SampleUnderlinesDefault
+ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:249:9-256:20
+	android:label
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:251:17-51
+	android:name
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:250:17-56
+activity#com.viewpagerindicator.sample.SampleUnderlinesNoFade
+ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:257:9-264:20
+	android:label
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:259:17-51
+	android:name
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:258:17-55
+activity#com.viewpagerindicator.sample.SampleUnderlinesStyledLayout
+ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:265:9-273:20
+	android:label
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:267:17-63
+	android:theme
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:268:17-59
+	android:name
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:266:17-61
+activity#com.viewpagerindicator.sample.SampleUnderlinesStyledMethods
+ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:274:9-282:20
+	android:label
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:276:17-64
+	android:theme
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:277:17-59
+	android:name
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:275:17-62
+activity#com.viewpagerindicator.sample.SampleUnderlinesStyledTheme
+ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:283:9-291:20
+	android:label
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:285:17-62
+	android:theme
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:286:17-56
+	android:name
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml:284:17-60
+uses-sdk
+INJECTED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml
+INJECTED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml
+MERGED from [:ViewPagerIndicator_library] H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicator_library\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:ViewPagerIndicator_library] H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicator_library\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\e009d483624e6dcc10426b09d32dc6fc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\e009d483624e6dcc10426b09d32dc6fc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\35ca24488f151ffd1d755b30ba8e8531\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\35ca24488f151ffd1d755b30ba8e8531\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\af0af53a990a189e8fa0efda00ad0b94\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\af0af53a990a189e8fa0efda00ad0b94\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\333236e62320ebfe1a47c27f7ea10668\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\333236e62320ebfe1a47c27f7ea10668\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\af267683fc0ba1e1a13b2657f10de1f5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\af267683fc0ba1e1a13b2657f10de1f5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\d76ca2a47fac39a08dbd0a425da5b52e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\d76ca2a47fac39a08dbd0a425da5b52e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\8b823809382d9401bd8e42cbc703cac4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\8b823809382d9401bd8e42cbc703cac4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\dfb3ae1ccf14ea6afcde80028ff3d3d6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\dfb3ae1ccf14ea6afcde80028ff3d3d6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\634346b059fae288c3d3850a5164badc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\634346b059fae288c3d3850a5164badc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\b338c94fe78ebb92f003c286fe545526\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\b338c94fe78ebb92f003c286fe545526\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\3cb75a24b7eda3fc811bc527ae4979c0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\3cb75a24b7eda3fc811bc527ae4979c0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\4f0b7747a7bb3b72ff79bfcdfb8da736\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\4f0b7747a7bb3b72ff79bfcdfb8da736\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\c20243fe6a09a3654fb7eca98d4ca72b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\c20243fe6a09a3654fb7eca98d4ca72b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\9b35f747a13441a4a82f9f7792795e3f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\9b35f747a13441a4a82f9f7792795e3f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\5280fa656e18051fe738e61bf1c6e7a8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\5280fa656e18051fe738e61bf1c6e7a8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\60749f5295e7bacaaf63fca0418b5593\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\60749f5295e7bacaaf63fca0418b5593\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\0bc4a5ca0915826e8fdcb832aec32dbb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\0bc4a5ca0915826e8fdcb832aec32dbb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\d4b5a30d93e6d4fe8f341ef4102e9911\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\d4b5a30d93e6d4fe8f341ef4102e9911\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\5037a2ab08689c02380effba2588fb13\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\5037a2ab08689c02380effba2588fb13\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\db09267961f884df73abf97952d94fcb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\db09267961f884df73abf97952d94fcb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\ab4da938809d3afb74b6a14f2b82c7de\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\ab4da938809d3afb74b6a14f2b82c7de\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\7d19cb470745f04e8fc93edb640cff39\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\7d19cb470745f04e8fc93edb640cff39\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\f57f4cf11d5647e760ce94a2f79c367c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\f57f4cf11d5647e760ce94a2f79c367c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\a512bfbb0881cafed078bb34f488334f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\a512bfbb0881cafed078bb34f488334f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\3141eb7a18ebedd4196deac65d326e1f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] H:\Android\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\3141eb7a18ebedd4196deac65d326e1f\AndroidManifest.xml:20:5-44
+INJECTED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml
+INJECTED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml
+		INJECTED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml
+		ADDED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml
+		INJECTED from H:\ShangGuiGuDemo\ZhijianNews\ViewPagerIndicatorSample\src\main\AndroidManifest.xml

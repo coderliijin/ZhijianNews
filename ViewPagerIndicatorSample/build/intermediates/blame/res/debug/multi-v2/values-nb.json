@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "H:\\ShangGuiGuDemo\\ZhijianNews\\ViewPagerIndicatorSample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-nb\\values-nb.xml",
+            "map": [
+                {
+                    "source": "H:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\9b35f747a13441a4a82f9f7792795e3f\\res\\values-nb\\values-nb.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
